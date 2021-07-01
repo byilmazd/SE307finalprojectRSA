@@ -1,0 +1,6 @@
+7/1/2021 1:01:54 PM
+Member(Rented) Barkin Yilmaz GaziMah. 534 Rented Items: LOTR
+7/1/2021 1:02:56 PM
+Member(Rented) Ege Bakalim GülMah. 532 Rented Items: Cat
+7/1/2021 1:03:37 PM
+Member(Returned) Barkin Yilmaz GaziMah. 534 Rented Items: LOTR
